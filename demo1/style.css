@@ -1,0 +1,27 @@
+/* all tag */
+*{
+	margin: 0; padding: 0; list-style: none; 
+	font-size: 1.5625vw;  /* 基本像素10px, 10 对于640的设计稿， 10/640 *100% = 1.5625   */
+	font-family: 'Microsoft Yahei';
+}
+
+/* music */
+#music{
+	position: fixed; top: 3vh; width: 15vw; height: 15vw; right: 4vh; border: 4px solid #ef1639; border-radius: 50%;
+}
+
+#music > img:first-of-type{
+	width: 79%; left: 0; top: 0; bottom: 0; right: 0; position: absolute; margin: auto;
+}
+
+#music > img:last-of-type{
+	position: absolute; top:22%; right: 2.5%;  width: 28.421%; 
+}
+
+/* page bg */
+
+/* page page1 */
+
+/* page page2 */
+
+/* page page3 */
